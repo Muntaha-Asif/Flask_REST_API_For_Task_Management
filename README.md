@@ -619,7 +619,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👨‍💻 Author
 
-Muntaha Asif
+**Muntaha Asif**
 - GitHub: (https://github.com/Muntaha-Asif)
 - LinkedIn: (https://www.linkedin.com/in/muntaha-asif-84156732a/)
 
